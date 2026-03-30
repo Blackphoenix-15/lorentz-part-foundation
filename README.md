@@ -13,7 +13,7 @@ Improved reproduction and extension of the [GSoC 2025 work](https://medium.com/@
 | Naive baseline (plain transformer) | 100k | 43.3% | Flat LR, no pairwise interactions |
 | **LorentzParT + physics loss (this work)** | **74k\*** | **57.4%** | 50+50 epochs, cosine LR |
 | Reference 2025 — midterm, from scratch | 800k | 62.4% | HPC training |
-| Reference 2025 — final, pretrained LorentzParT | 100M | 69.95% | Full JetClass, HPC |
+| Reference 2025 — final, pretrained LorentzParT | 100M | 63.14% | Full JetClass, HPC |
 
 \* One corrupted file (`HToBB_123.root`) was skipped by the dataloader.
 
