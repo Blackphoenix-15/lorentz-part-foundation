@@ -1,4 +1,4 @@
-# LorentzParT — Foundation Model for Jet Physics
+# LorentzParT: Foundation Model for Jet Physics
 
 **GSoC 2026 Test Task Submission** | ML4SCI / CMS End-to-End Deep Learning Project
 
